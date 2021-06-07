@@ -594,3 +594,11 @@ body {
   border-radius: 50%;
   box-shadow: none;
 }
+
+label, [type="text"], textarea {
+  display: block;
+}
+
+textarea {
+  resize: none;
+}
