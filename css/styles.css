@@ -595,7 +595,7 @@ body {
   box-shadow: none;
 }
 
-label, [type="text"], textarea {
+label, .text-box, textarea {
   display: block;
 }
 
