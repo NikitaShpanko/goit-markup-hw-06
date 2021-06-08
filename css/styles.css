@@ -621,3 +621,16 @@ body {
 textarea {
   resize: none;
 }
+
+.text-box-icon {
+  position:absolute;
+  bottom: -20px; /*replace it later*/
+  left: 5px; /*replace it later*/
+  width: 18px;
+  height: 18px;
+}
+
+/* replace it later: */
+.form-label {
+  position: relative;
+}
